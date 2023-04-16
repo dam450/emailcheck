@@ -1,0 +1,15 @@
+{
+  "name": "emailcheck",
+  "version": "1.0.0",
+  "description": "check email validity with regex",
+  "type": "module",
+  "engines": {
+    "node": ">= 16"
+  },
+
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "dam450 <dam450.dev@gmail.com> (dam450.dev)",
+  "license": "MIT"
+}
