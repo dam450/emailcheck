@@ -1,6 +1,6 @@
 {
   "name": "emailcheck",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "check email validity with regex",
   "type": "module",
   "engines": {
